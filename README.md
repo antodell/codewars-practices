@@ -11,4 +11,4 @@ This repository contains my solutions for Codewars problems.
 ✅ **7 Kyu (Advanced Beginner)**  
 ✅ **Solved: 2 Katas**  
 
-Check out my profile; [https://www.codewars.com/users/your-username](https://www.codewars.com/users/antodell)! 😃
+Check out my profile; https://www.codewars.com/users/antodell ! 😃
